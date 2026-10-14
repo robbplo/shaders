@@ -1,4 +1,4 @@
-# 100 Shaders
+# Shaders
 
 A collection of fragment shader exercises exploring different GLSL techniques and visual effects. Each shader demonstrates different concepts and approaches to creating visual patterns and animations.
 
